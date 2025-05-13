@@ -1,0 +1,9 @@
+# Ignore Docker images and containers
+*.tar
+*.img
+*.log
+
+# Ignore build artifacts
+*.class
+target/
+
